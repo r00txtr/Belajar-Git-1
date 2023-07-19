@@ -1,0 +1,6 @@
+Tugas 1: Inisialisasi dan Commit
+
+1. Inisialisasi repositori Git baru di direktori proyek Anda.
+2. Buatlah beberapa file teks (misalnya file1.txt, file2.txt) dengan konten apa pun.
+3. Tambahkan semua file yang telah Anda buat ke staging area.
+4. Commit perubahan dengan pesan commit yang sesuai.
